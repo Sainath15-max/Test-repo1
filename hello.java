@@ -1,6 +1,6 @@
-class Hello
-  {
-       public static void main(string[] args)
-  {
+class FirstProgram 
+     {
+        public static void main(String[] args)
+     {
      }
 }
